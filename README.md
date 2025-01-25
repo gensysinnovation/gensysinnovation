@@ -1,4 +1,4 @@
-<h1>Hi, I'm Clarence! <br/><a href="https://github.com/gensysinnovation/gensysinnovation">Network Engineer</a>, <a href="">Documenting my Learning Journey & Projects</a>, <a 
+<h1>Hi, I'm Clarence! </h1><a href="https://github.com/gensysinnovation/gensysinnovation">Network Engineer</a>, <a href="">Documenting my Learning Journey & Projects</a>
 
 <br>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
